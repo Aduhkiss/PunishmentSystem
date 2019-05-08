@@ -1,0 +1,10 @@
+name: PunishmentSystem
+main: club.infinitygames.punishment.Punishment
+version: 1.0
+author: ["AtticusTheCoder"]
+commands: 
+  punish:
+    aliases: ["p"]
+    description: Apply a punishment
+  managepunish:
+    description: Allows Admins to disallow certain punishments
